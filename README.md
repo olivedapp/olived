@@ -39,12 +39,6 @@ https://olived.app
 
 - URL(s): https://live.douyin.com/559416663200
 
-- Cookie:
-
-  ```
-  __ac_nonce=0649533f7001da16cf085; __ac_signature=_02B4Z6wo00f017jTT.QAAIDA6KQLDsAF3PO480tAAIqqnzARIqih9MSxHN77OzLal66fvCb8ZvDa0CJa2lWECc5ZxytADPq2bmK6MIdweo9ELlYjlzYkBwBvvcodo395ANMMlyA6J0mW0Hz3b5;
-  ```
-
 ### douyu
 
 - Description: A live platform for everyone.
