@@ -1,0 +1,26 @@
+services:
+  olived:
+    image: olivedapp/olived-web:latest
+    container_name: olived-web
+    pull_policy: always
+    restart: unless-stopped
+    ports:
+      # Exposes the web UI on port 9843. Access it at http://<your-host-ip>:9843
+      - "9843:9843"
+    environment:
+      # Set the user and group ID to avoid permission issues with volume mounts.
+      # Find your user's PUID and PGID by running the command: id $(whoami)
+      - PUID=1000
+      - PGID=1000
+      # Optional: Set your timezone to ensure correct timestamps in the app.
+      # A list of timezones can be found here: https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+      - TZ=Etc/UTC
+      # Optional: Set port.
+      - PORT=9843
+      # Optional: Set unlock password.
+      - PASSWORD=yourpassword
+    volumes:
+      # Mount for your downloaded video files.
+      - $PWD/olivedpro_downloads:/olivedapp/olivedpro_downloads
+      # Mount for Olived's configuration, database, and logs.
+      - $PWD/.olivedpro:/olivedapp/.olivedpro
