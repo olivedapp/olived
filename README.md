@@ -2,6 +2,8 @@
 
 [![Latest Release](https://img.shields.io/github/v/release/olivedapp/olived?style=for-the-badge)](https://github.com/olivedapp/olived/releases/latest)
 [![Docker Pulls](https://img.shields.io/docker/pulls/olivedapp/olived-web.svg?style=for-the-badge)](https://hub.docker.com/r/olivedapp/olived-web)
+[![Docs](https://img.shields.io/badge/DOCS-View-green.svg?style=for-the-badge)](https://olived.app/docs/sites)
+[![Changelog](https://img.shields.io/badge/CHANGELOG-What's_New-purple.svg?style=for-the-badge)](https://olived.app/docs/changelog)
 
 ## Intro
 
