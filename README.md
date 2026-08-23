@@ -156,6 +156,7 @@ docker run -d \
 | xhamsterlive | XHAMSTERLIVE | https://xhamsterlive.com/Maddieblairxo (NSFW) |
 | xiaohongshu | Xiaohongshu | https://www.xiaohongshu.com/hina/livestream/569318810940914205<br>https://xhslink.com/zfknEQ |
 | xlovecam | XLOVECAM | https://xlovecam.com/Milena_Lynn (NSFW) |
+| yangdduo | Yangdduo | https://live.yangdduo.com/198761 |
 | ybw1666 | Ybw1666 | https://www.ybw1666.com/800002967 |
 | youtube | YouTube | https://www.youtube.com/@LofiGirl |
 | yy | yy | https://www.yy.com/54880976/54880976 |

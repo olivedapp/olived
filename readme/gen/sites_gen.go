@@ -407,6 +407,12 @@ var Sites = []SiteInfo{
 		Domain: []string{"https://xlovecam.com/Milena_Lynn"},
 	},
 	{
+		ID:     "yangdduo",
+		Name:   "Yangdduo",
+		IsNSFW: false,
+		Domain: []string{"https://live.yangdduo.com/198761"},
+	},
+	{
 		ID:     "ybw1666",
 		Name:   "Ybw1666",
 		IsNSFW: false,
