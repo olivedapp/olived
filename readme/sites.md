@@ -4,6 +4,7 @@
 | beeshow | Beeshow | https://www.beeshow.tv/251234653 |
 | bigo | BIGO | https://www.bigo.tv/J8023<br>https://slink.bigovideo.tv/GwkE2e |
 | bilibili | Bilibili | https://live.bilibili.com/1796100546 |
+| blued | Blued | https://app.blued.cn/live?id=r6mdx7&action=liveplay |
 | bongacams | BongaCams | https://cn.bongacams.com/emmaheart (NSFW) |
 | cam4 | CAM4 | https://cam4.com/nickifrenchy (NSFW) |
 | cams | CAMS | https://cams.com/Milena_Lynn (NSFW) |

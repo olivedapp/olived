@@ -35,6 +35,12 @@ var Sites = []SiteInfo{
 		Domain: []string{"https://live.bilibili.com/1796100546"},
 	},
 	{
+		ID:     "blued",
+		Name:   "Blued",
+		IsNSFW: false,
+		Domain: []string{"https://app.blued.cn/live?id=r6mdx7&action=liveplay"},
+	},
+	{
 		ID:     "bongacams",
 		Name:   "BongaCams",
 		IsNSFW: true,
